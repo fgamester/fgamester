@@ -1,4 +1,5 @@
 <div>
+  <image alt="Profile Banner" src="https://github.com/user-attachments/assets/0bfeaa65-c6c7-48f0-9d96-e12e4a67009e"/>
   <h1>
     Hi there
   </h1>
@@ -10,12 +11,15 @@
   <h4>
     Languages and Tools
   </h4>
+  <image alt="HTML5" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></image>
+  <image alt="CSS" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg"></image>
+  <image alt="JavaScript" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></image>
   <image alt="React" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></image>
   <image alt="Python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></image>
-  <image alt="HTML5" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></image>
   <image alt="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></image>
-  <image alt="CSS" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></image>
   <image alt="SQLite" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"></image>
+  <image alt="Docker" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg"></image>
+  <image alt="Docker" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg"></image>
   <image alt="" src=""></image>
 </div>
 
