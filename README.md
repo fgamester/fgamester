@@ -1,8 +1,9 @@
 <div>
-  <image alt="Profile Banner" src="https://github.com/user-attachments/assets/0bfeaa65-c6c7-48f0-9d96-e12e4a67009e"/>
+  <image alt="Profile Banner" src="https://github.com/user-attachments/assets/4aef1b49-8c21-4f08-8a16-3882a2c6f79a"/>
   <h1>
     Hi there
   </h1>
+
   <h3>
     I'm Franco Alvarez aka FGamester
   </h3>
