@@ -18,8 +18,7 @@
   <image alt="Python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></image>
   <image alt="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></image>
   <image alt="SQLite" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"></image>
-  <image alt="Docker" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg"></image>
-  <image alt="Docker" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg"></image>
+  <image alt="Docker" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></image>
   <image alt="" src=""></image>
 </div>
 
