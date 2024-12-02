@@ -1,5 +1,5 @@
 <div>
-  <image alt="Profile Banner" src="https://github.com/user-attachments/assets/4aef1b49-8c21-4f08-8a16-3882a2c6f79a"/>
+  <image alt="Profile Banner" src="assets/images/github_banner.png"/>
   <h1>
     Hi there
   </h1>
