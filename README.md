@@ -1,5 +1,5 @@
 <div>
-  <image alt="Profile Banner" src="assets/images/github_banner.png"/>
+  <image alt="Profile Banner" src="public/github_banner.png"/>
   <h1>
     Hi there
   </h1>
@@ -8,26 +8,27 @@
     I'm Franco Alvarez aka FGamester
   </h3>
 
-  <p style="margin:0px" >I'm a FullStack developer with experience mainly in technologies like Python, Flask, HTML, CSS, JavaScript and React</p>
-  <p style="margin:0px" >I like to discover new technologies and tools that allow me to improve my skills and face increasingly complex projects.</p>
-  <p style="margin:0px" >I consider myself a proactive person, with a constant growth mindset, willing to adapt to new trends and challenges in the area</p>
-  <p>I'm commited to my professional development and seek to add value in every project i work to, focused in improving every day and achieving my long-term goals.</p>
+  <p style="margin:0px" >I'm a FullStack developer with experience mainly in technologies like Python, Flask, HTML, CSS, JavaScript and React.<br>I like to discover new technologies and tools that allow me to improve my skills and face increasingly complex projects.<br>I consider myself a proactive person, with a constant growth mindset, willing to adapt to new trends and challenges in the area.<br>I'm commited to my professional development and seek to add value in every project i work to, focused in improving every day and achieving my long-term goals.</p>
 </div>
 <div>
   <h4>
     Languages and Tools
   </h4>
-  <image alt="HTML5" style="width:65px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"/>
-  <image alt="CSS" style="width:65px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg"/>
-  <image alt="JavaScript" style="width:65px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"/>
-  <image alt="React" style="width:65px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>
-  <image alt="Python" style="width:65px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/>
-  <image alt="Postman" style="width:65px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
-  <image alt="SQLite" style="width:65px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"/>
-  <image alt="Docker" style="width:65px" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg"/>
-  <image alt="" src=""/>
+  <div style="display: flex; justify-content: space-evenly; flex-wrap: wrap; gap:10px" >
+    <image alt="HTML5" style="width:65px" src="public/technologies/html5.svg"/>
+    <image alt="CSS" style="width:65px" src="public/technologies/css.svg"/>
+    <image alt="Bootstrap" style="width:65px" src="public/technologies/bootstrap.svg"/>
+    <image alt="TailwindCSS" style="width:65px" src="public/technologies/tailwindcss.svg"/>
+    <image alt="JavaScript" style="width:65px" src="public/technologies/javascript.svg"/>
+    <image alt="TypeScript" style="width:65px" src="public/technologies/typescript.svg"/>
+    <image alt="React" style="width:65px" src="public/technologies/react.svg"/>
+    <image alt="Python" style="width:65px" src="public/technologies/python.svg"/>
+    <image alt="Postman" style="width:65px" src="public/technologies/postman.svg"/>
+    <image alt="SQLite" style="width:65px" src="public/technologies/sqlite.svg"/>
+    <image alt="Docker" style="width:65px" src="public/technologies/docker.svg"/>
+    <image alt="" style="width:65px" src=""/>
+  </div>
 </div>
-
 
 <!--
 **fgamester/fgamester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
