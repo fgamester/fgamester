@@ -8,7 +8,7 @@
     I'm Franco Alvarez aka FGamester
   </h3>
 
-  <p style="margin:0px" >I'm a FullStack developer with experience mainly in technologies like Python, Flask, HTML, CSS, JavaScript and React.<br>I like to discover new technologies and tools that allow me to improve my skills and face increasingly complex projects.<br>I consider myself a proactive person, with a constant growth mindset, willing to adapt to new trends and challenges in the area.<br>I'm commited to my professional development and seek to add value in every project i work to, focused in improving every day and achieving my long-term goals.</p>
+  <p style="margin:0px; text-align:justify" >I'm a FullStack developer with experience mainly in technologies like Python, Flask, HTML, CSS, JavaScript and React.<br>I like to discover new technologies and tools that allow me to improve my skills and face increasingly complex projects.<br>I consider myself a proactive person, with a constant growth mindset, willing to adapt to new trends and challenges in the area.<br>I'm commited to my professional development and seek to add value in every project i work to, focused in improving every day and achieving my long-term goals.</p>
 </div>
 <div>
   <h4>
